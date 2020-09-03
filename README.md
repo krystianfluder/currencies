@@ -15,14 +15,14 @@
   <h3 align="center">currencies</h3>
 
   <p align="center">
-    Online store, invoices, resetting accounts, order list, paying for pending orders and much more.
+    react, react-bootstrap, chart.js
     <br />
     <a href="https://github.com/krystianfluder/currencies"><strong>Explore the docs »</strong></a>
     <br />
     <br />
     <a href="https://github.com/krystianfluder/currencies">View Demo</a>
     ·
-    <a href="https://github.com/krystianfluder/currencies/issues">Report Bug</a>
+    <a href="https://github.com/krystianfluder/currencies/issues">currenciesrt Bug</a>
     ·
     <a href="https://github.com/krystianfluder/currencies/issues">Request Feature</a>
   </p>
@@ -76,7 +76,7 @@ npm install npm@latest -g
 
 ### Installation
 
-1. Clone the repo
+1. Clone the currencies
 
 ```sh
 git clone https://github.com/krystianfluder/currencies.git
@@ -135,16 +135,16 @@ Project Link: [https://github.com/krystianfluder/currencies](https://github.com/
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 
-[contributors-shield]: https://img.shields.io/github/contributors/krystianfluder/repo.svg?style=flat-square
-[contributors-url]: https://github.com/krystianfluder/repo/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/krystianfluder/repo.svg?style=flat-square
-[forks-url]: https://github.com/krystianfluder/repo/network/members
-[stars-shield]: https://img.shields.io/github/stars/krystianfluder/repo.svg?style=flat-square
-[stars-url]: https://github.com/krystianfluder/repo/stargazers
-[issues-shield]: https://img.shields.io/github/issues/krystianfluder/repo.svg?style=flat-square
-[issues-url]: https://github.com/krystianfluder/repo/issues
-[license-shield]: https://img.shields.io/github/license/krystianfluder/repo.svg?style=flat-square
-[license-url]: https://github.com/krystianfluder/repo/blob/master/LICENSE.txt
+[contributors-shield]: https://img.shields.io/github/contributors/krystianfluder/currencies.svg?style=flat-square
+[contributors-url]: https://github.com/krystianfluder/currencies/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/krystianfluder/currencies.svg?style=flat-square
+[forks-url]: https://github.com/krystianfluder/currencies/network/members
+[stars-shield]: https://img.shields.io/github/stars/krystianfluder/currencies.svg?style=flat-square
+[stars-url]: https://github.com/krystianfluder/currencies/stargazers
+[issues-shield]: https://img.shields.io/github/issues/krystianfluder/currencies.svg?style=flat-square
+[issues-url]: https://github.com/krystianfluder/currencies/issues
+[license-shield]: https://img.shields.io/github/license/krystianfluder/currencies.svg?style=flat-square
+[license-url]: https://github.com/krystianfluder/currencies/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/krystianfluder
 [product-screenshot]: src/images/full.png
