@@ -9,10 +9,10 @@
 <br />
 <p align="center">
   <a href="https://github.com/krystianfluder/currencies">
-    <img src="src/images/phone.png" alt="Logo" width="100">
+    <img src="ss/phone.png" alt="Logo" width="100">
   </a>
 
-  <h3 align="center">currencies</h3>
+  <h3 align="center">Currencies</h3>
 
   <p align="center">
     react, react-bootstrap, chart.js
@@ -116,7 +116,7 @@ Contributions are what make the open source community such an amazing place to b
 
 ## License
 
-Distributed under the MIT License. See `LICENSE` for more information.
+Distributed under the GNU GENERAL PUBLIC LICENSE. See `LICENSE` for more information.
 
 <!-- CONTACT -->
 
@@ -144,7 +144,7 @@ Project Link: [https://github.com/krystianfluder/currencies](https://github.com/
 [issues-shield]: https://img.shields.io/github/issues/krystianfluder/currencies.svg?style=flat-square
 [issues-url]: https://github.com/krystianfluder/currencies/issues
 [license-shield]: https://img.shields.io/github/license/krystianfluder/currencies.svg?style=flat-square
-[license-url]: https://github.com/krystianfluder/currencies/blob/master/LICENSE.txt
+[license-url]: https://github.com/krystianfluder/currencies/blob/master/LICENSE
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/krystianfluder
-[product-screenshot]: src/images/full.png
+[product-screenshot]: ss/full.png
