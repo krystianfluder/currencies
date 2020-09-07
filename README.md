@@ -2,7 +2,7 @@
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
-[![MIT License][license-shield]][license-url]
+[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
 <!-- PROJECT LOGO -->
@@ -141,8 +141,6 @@ Project Link: [https://github.com/krystianfluder/currencies](https://github.com/
 [stars-url]: https://github.com/krystianfluder/currencies/stargazers
 [issues-shield]: https://img.shields.io/github/issues/krystianfluder/currencies.svg?style=flat-square
 [issues-url]: https://github.com/krystianfluder/currencies/issues
-[license-shield]: https://img.shields.io/github/license/krystianfluder/currencies.svg?style=flat-square
-[license-url]: https://github.com/krystianfluder/currencies/blob/master/LICENSE
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/krystianfluder
 [product-screenshot]: ss/full.png
