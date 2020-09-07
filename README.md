@@ -17,14 +17,12 @@
   <p align="center">
     react, react-bootstrap, chart.js
     <br />
-    <a href="https://github.com/krystianfluder/currencies"><strong>Explore the docs »</strong></a>
     <br />
-    <br />
-    <a href="https://github.com/krystianfluder/currencies">View Demo</a>
+    <a href="https://krystianfluder.github.io/currencies/">View Demo</a>
     ·
-    <a href="https://github.com/krystianfluder/currencies/issues">currenciesrt Bug</a>
+    <a href="https://github.com/krystianfluder/chess/issues">Report Bug</a>
     ·
-    <a href="https://github.com/krystianfluder/currencies/issues">Request Feature</a>
+    <a href="https://github.com/krystianfluder/chess/issues">Request Feature</a>
   </p>
 </p>
 
@@ -92,7 +90,7 @@ npm install
 
 ## Usage
 
-[Demo](https://example.com)
+[Demo](https://krystianfluder.github.io/currencies/)
 
 <!-- ROADMAP -->
 
