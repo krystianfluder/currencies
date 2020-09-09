@@ -2,7 +2,7 @@
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
-[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
+[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://github.com/krystianfluder/currencies/blob/master/LICENSE)
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
 <!-- PROJECT LOGO -->
@@ -90,7 +90,17 @@ npm install
 
 ## Usage
 
-[Demo](https://krystianfluder.github.io/currencies/)
+Development
+
+```sh
+npm start
+```
+
+Production
+
+```sh
+npm run build
+```
 
 <!-- ROADMAP -->
 
